@@ -1,0 +1,80 @@
+2024-12-28 12:57:53 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=17, ssthresh=16
+2024-12-28 12:57:53 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=8, ssthresh=8
+2024-12-28 12:57:54 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=12, ssthresh=8
+2024-12-28 12:57:54 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=6, ssthresh=6
+2024-12-28 12:57:54 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=11, ssthresh=6
+2024-12-28 12:57:54 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=5, ssthresh=5
+2024-12-28 12:57:55 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=14, ssthresh=5
+2024-12-28 12:57:55 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=7, ssthresh=7
+2024-12-28 12:57:55 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=8, ssthresh=7
+2024-12-28 12:57:55 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=4, ssthresh=4
+2024-12-28 12:57:55 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=8, ssthresh=4
+2024-12-28 12:57:55 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=4, ssthresh=4
+2024-12-28 12:57:57 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=15, ssthresh=4
+2024-12-28 12:57:57 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=7, ssthresh=7
+2024-12-28 12:57:57 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=13, ssthresh=7
+2024-12-28 12:57:57 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=6, ssthresh=6
+2024-12-28 12:57:57 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=7, ssthresh=6
+2024-12-28 12:57:57 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=3, ssthresh=3
+2024-12-28 12:57:58 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=13, ssthresh=3
+2024-12-28 12:57:58 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=6, ssthresh=6
+2024-12-28 12:57:59 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=14, ssthresh=6
+2024-12-28 12:57:59 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=7, ssthresh=7
+2024-12-28 12:57:59 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=10, ssthresh=7
+2024-12-28 12:57:59 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=5, ssthresh=5
+2024-12-28 12:58:00 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=7, ssthresh=5
+2024-12-28 12:58:00 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=3, ssthresh=3
+2024-12-28 12:58:00 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=13, ssthresh=3
+2024-12-28 12:58:00 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=6, ssthresh=6
+2024-12-28 12:58:02 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=20, ssthresh=6
+2024-12-28 12:58:02 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=10, ssthresh=10
+2024-12-28 12:58:02 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=10, ssthresh=10
+2024-12-28 12:58:02 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=5, ssthresh=5
+2024-12-28 12:58:03 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - Before: cwnd=13, ssthresh=5
+2024-12-28 12:58:03 com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+–≈œ¢: Fast Recovery - After: cwnd=6, ssthresh=6
+‰∏ÄÊúà 12, 2026 8:45:37 ‰∏ãÂçà com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+‰ø°ÊÅØ: Fast Recovery - Before: cwnd=35, ssthresh=16
+‰∏ÄÊúà 12, 2026 8:45:37 ‰∏ãÂçà com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+‰ø°ÊÅØ: Fast Recovery - After: cwnd=17, ssthresh=17
+‰∏ÄÊúà 12, 2026 8:45:37 ‰∏ãÂçà com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+‰ø°ÊÅØ: Fast Recovery - Before: cwnd=19, ssthresh=17
+‰∏ÄÊúà 12, 2026 8:45:37 ‰∏ãÂçà com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+‰ø°ÊÅØ: Fast Recovery - After: cwnd=9, ssthresh=9
+‰∏ÄÊúà 12, 2026 8:45:41 ‰∏ãÂçà com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+‰ø°ÊÅØ: Fast Recovery - Before: cwnd=30, ssthresh=9
+‰∏ÄÊúà 12, 2026 8:45:41 ‰∏ãÂçà com.ouc.tcp.test.SenderSlidingWindow fastRecovery
+‰ø°ÊÅØ: Fast Recovery - After: cwnd=15, ssthresh=15
